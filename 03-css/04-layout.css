@@ -9,7 +9,13 @@ body {
 .header,
 .section,
 .aside {
-  box-sizing: content-box;
+  /*I am assuming that we had to change the 
+  layout such that everything lined up as 
+  in the 2nd photo in the css_exercises.md 
+  file*/
+  /*box-sizing: content-box; This is very different from the border-box*/
+
+  box-sizing: border-box;
   padding: 10px;
   border: 4px solid var(--black);
 }

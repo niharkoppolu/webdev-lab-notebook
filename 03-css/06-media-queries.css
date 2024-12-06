@@ -1,3 +1,56 @@
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 1em;
+}
+
+nav ul li :hover {
+  background-color: gray;
+  padding: 0.5em;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+.main {
+  margin-top: 100px;
+}
+
+body {
+  /*default size is size of phone screen*/
+  background: var(--purple);
+  color: var(--white);
+}
+
+@media (max-width: 413px) {
+  nav ul li {
+    width: 100%;
+  }
+
+  .main {
+    margin-top: 200px;
+  }
+}
+
+@media (min-width: 414px) {
+  body {
+    background: var(--orange);
+    color: var(--black);
+  }
+}
+
 @media (min-width: 1024px) {
   body {
     background: var(--green);

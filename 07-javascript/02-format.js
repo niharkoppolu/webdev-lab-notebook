@@ -3,7 +3,15 @@ const formatItems = (input) => {
 
   // for reference, see the MDN Number page:
   // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number
+  let str_num = "";
+  for (let i = 0; i < input.length; ++i) {
+    str_num = str_num + input[i].toFixed(3);
 
+    if (i < input.length - 1) {
+      str_num = str_num + ", ";
+    }
+  }
+  input = str_num;
   return input;
 };
 
