@@ -69,6 +69,20 @@ As usual, I feel like the exercise assigned was sufficient.
 
 ### CSS-Grid
 
+Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
+I used a combination of my own ingenuity coupled with the video tutorials to get through these exercises.
+
+How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+I didn't end up using css grid based layouts for any of my homework assignments, but I can see the application of the grid layout
+to website design. I learned how to use CSS grid layouts through these exercises,but will likely never use them again.
+
+Was there something that you wish had been explained better?
+Again, I think everything was explained well.
+
+Were there other exercises that might have helped you learn this week’s
+topic a little better?
+You taught CSS grid layout use well.
+
 ### Bootstrap
 
 ### Javascript
