@@ -3,6 +3,7 @@
 // fetch JavaScript objects representing specific elements in the DOM
 // add an event listener on the target element
 // callback function to handle event
+
 const userInput1 = document.querySelector("#userInput1");
 const submit_button = document.querySelector("#copy");
 console.log(submit_button);
@@ -15,6 +16,9 @@ function handleClick(event) {
   console.log(output1);
   output1.textContent = userInput1.value;
 }
+
+
+
 
 // Exercise #2:
 // when the user enters input text, copy the user input to the output area
