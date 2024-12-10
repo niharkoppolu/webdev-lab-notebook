@@ -85,6 +85,8 @@ You taught CSS grid layout use well.
 
 ### Bootstrap
 
+To be honest, I have not had time to get to these exercises.
+
 ### Javascript
 
 Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
@@ -121,4 +123,4 @@ No, your exercises were sufficient.
 I have never used the example solutions. I tried to do many exercises without assistance.
 When I watched the videos and did the exercises following allow helped me learn the content so I could apply it to my homeworks.
 
-I completed the week 5 and week 6 exercises pretty late in the term. I felt like they weren't as relevant to the homeworks.
+I completed the week 6 exercises pretty late in the term. I felt like they weren't as relevant to the homeworks.
